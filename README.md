@@ -99,12 +99,19 @@ However, this project focuses on building an end-to-end analytical system rather
 
 
 ## 📊 Key Insights
+
 Overall subscription rate is ~22.6%
+
 Age (28–61) is common but not a strong driver
+
 Demographics like marital status and education have low impact
+
 Retired customers and students show highest conversion (~30%+ and ~43%)
+
 Previous campaign success is the strongest predictor (65% vs 14%)
+
 More contact attempts reduce conversion rate
+
 Longer call duration is linked to higher conversion
 
 ---
@@ -112,10 +119,15 @@ Longer call duration is linked to higher conversion
 
 ## 🚀 Recommendations
 Focus on high-performing segments (retired & students)
+
 Prioritize customers with positive previous campaign outcomes
+
 Reduce excessive contact attempts
+
 Improve quality of customer interactions
+
 Use personalized and data-driven targeting instead of generic campaigns
+
 Avoid relying on weak features like marital status and education
 
 ---
