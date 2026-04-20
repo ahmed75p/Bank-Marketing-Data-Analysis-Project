@@ -1,0 +1,3 @@
+Before executing the ETL pipeline, ensure that all file paths in the SSIS Flat File Connections are updated to match your local environment.
+The existing paths reference local directories on the original development machine.
+To run the project successfully, update these paths to your local file locations or redirect them to the dataset provided in the /Data folder of this repository.
