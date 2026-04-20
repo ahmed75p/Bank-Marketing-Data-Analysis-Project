@@ -84,12 +84,16 @@ However, this project focuses on building an end-to-end analytical system rather
 
 ## 🖼️ Dashboard Preview
 
-Add your images here:
 
 ![Intro](https://github.com/ahmed75p/Bank-Marketing-Data-Analysis-Project/blob/main/Images/1.PNG)
 ![Overview](https://github.com/ahmed75p/Bank-Marketing-Data-Analysis-Project/blob/main/Images/2.PNG)
 ![Customers](https://github.com/ahmed75p/Bank-Marketing-Data-Analysis-Project/blob/main/Images/3.PNG)
 ![Campaign](https://github.com/ahmed75p/Bank-Marketing-Data-Analysis-Project/blob/main/Images/4.PNG)
+
+![ETL](https://github.com/ahmed75p/Bank-Marketing-Data-Analysis-Project/blob/main/Images/5.PNG)
+![ETL](https://github.com/ahmed75p/Bank-Marketing-Data-Analysis-Project/blob/main/Images/6.PNG)
+![ETL](https://github.com/ahmed75p/Bank-Marketing-Data-Analysis-Project/blob/main/Images/7.PNG)
+![ETL](https://github.com/ahmed75p/Bank-Marketing-Data-Analysis-Project/blob/main/Images/8.PNG)
 
 ---
 
